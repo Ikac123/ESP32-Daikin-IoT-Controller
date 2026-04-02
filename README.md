@@ -34,3 +34,4 @@ The system is optimized for the ESP32 platform with the following GPIO mapping:
 * `ESP32_RemoteControl.ino`: Main firmware (C++).
 * `BaseOTA.h`: Wireless update configuration.
 * `Kontrola_Klime_v1.0.apk`: Android application (Serbian interface).
+![App Screenshot](1775164020724.jpg)
